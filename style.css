@@ -1,6 +1,10 @@
-header{
+.cabçalho{
     background-color:#ADD8E6
+    color #000
+    
 }
-.cabçalho-imagem{
-    width: 50%;
+
+
+.cabeçalho-imagem{
+    width: 30%;
 }
